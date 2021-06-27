@@ -13,8 +13,8 @@ a{
 }
 .medsos ul li {
     display: inline-block;
-    color: sienna;
-    margin-right: 10px;
+    color: HoneyDew;
+    margin-right: 15px;
 }
 .container {
     width: 80%;
@@ -28,7 +28,7 @@ a{
 header h1{
     float: left;
     padding:15px 0px;
-    color: rgb(72, 61, 139);
+    color: rgb(255, 182, 193);
 }
 header ul{
     float: right;
