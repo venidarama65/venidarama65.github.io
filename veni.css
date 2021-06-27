@@ -41,11 +41,11 @@ header ul li a {
     display: inline-block;
 }
 header ul li a:hover {
-    background-color: Mistyrose;
+    background-color: FloralWhite;
     color: rgb(176, 224, 230);
 }
 .active{
-    background-color: Mistyrose;
+    background-color: FloralWhite;
     color: rgb(176, 224, 230);
 }
 .banner{
