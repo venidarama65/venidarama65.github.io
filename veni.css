@@ -28,7 +28,7 @@ a{
 header h1{
     float: left;
     padding:15px 0px;
-    color: lightpink(31, 224, 144);
+    color: rgb(72, 61, 139);
 }
 header ul{
     float: right;
@@ -41,12 +41,12 @@ header ul li a {
     display: inline-block;
 }
 header ul li a:hover {
-    background-color:rgb(72, 61, 139);
-    color: ivory;
+    background-color:lightpink(29, 206, 206);
+    color: rgb(176, 224, 230);
 }
 .active{
-    background-color:rgb(72, 61, 139);
-    color: ivory;
+    background-color:lightpink(29, 206, 206);
+    color: rgb(176, 224, 230);
 }
 .banner{
     height: 60vh;
